@@ -43,6 +43,6 @@ library-management/
 ├── package.json # Project scripts & metadata
 └── README.md
 
-##✍️ Author
+## ✍️ Author
 Sadhique
 🌐 GitHub: github.com/sadhiqueck
