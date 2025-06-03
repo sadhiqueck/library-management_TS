@@ -1,48 +1,48 @@
-**📚 Library Management System**
-**A simple Object-Oriented Programming (OOP) project built with TypeScript, simulating a basic library system with books, users (students & teachers), and borrowing/returning features.**
+# 📚 Library Management System
 
-**🚀 Features**
-Add printed and e-books
+A beginner-friendly **Object-Oriented Programming (OOP)** project built with **TypeScript**. This console-based application simulates a basic library system where users (students and teachers) can borrow and return books.
 
-Register students and teachers
+---
 
-Borrow and return books
+## 🚀 Features
 
-Track availability of books
+- ✅ Add printed books and e-books
+- ✅ Register students and teachers
+- ✅ Borrow and return books
+- ✅ Track availability of books
+- ✅ Uses OOP principles: **Classes**, **Inheritance**, **Polymorphism**
 
-Uses OOP concepts: Classes, Inheritance, Polymorphism
+---
 
-**🏗️ Project Structure**
-bash
-Copy
-Edit
+## 🧠 Concepts Covered
+
+- **Object-Oriented Programming (OOP)**
+- **Abstraction**, **Inheritance**, **Polymorphism**
+- **Clean Code Structure**
+- **TypeScript Classes & Modules**
+- **Real-world interactions between classes**
+
+---
+
+## 🏗️ Project Structure
+
 library-management/
 ├── src/
-│   ├── models/               # Core class files
-│   │   ├── Book.ts
-│   │   ├── PrintedBook.ts
-│   │   ├── EBook.ts
-│   │   ├── User.ts
-│   │   ├── Student.ts
-│   │   ├── Teacher.ts
-│   ├── services/             # Library manager logic
-│   │   └── LibraryManager.ts
-│   └── index.ts              # Main entry point
-├── dist/                     # Compiled JS files (after build)
-├── tsconfig.json             # TypeScript config
-├── package.json              # Project setup and scripts
+│ ├── models/
+│ │ ├── Book.ts
+│ │ ├── PrintedBook.ts
+│ │ ├── EBook.ts
+│ │ ├── User.ts
+│ │ ├── Student.ts
+│ │ ├── Teacher.ts
+│ ├── services/
+│ │ └── LibraryManager.ts
+│ └── index.ts
+├── dist/ # Compiled JS files
+├── tsconfig.json # TypeScript configuration
+├── package.json # Project scripts & metadata
 └── README.md
 
-
-**🧠 Concepts Covered**
-Object-Oriented Programming
-
-Abstraction, Inheritance, Polymorphism
-
-TypeScript best practices
-
-Clean code organization
-
-🧑‍💻 Author
+##✍️ Author
 Sadhique
-
+🌐 GitHub: github.com/sadhiqueck
