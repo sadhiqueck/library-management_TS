@@ -1,7 +1,7 @@
-###📚 Library Management System
-###A simple Object-Oriented Programming (OOP) project built with TypeScript, simulating a basic library system with books, users (students & teachers), and borrowing/returning features.
+**📚 Library Management System
+**A simple Object-Oriented Programming (OOP) project built with TypeScript, simulating a basic library system with books, users (students & teachers), and borrowing/returning features.
 
-###🚀 Features
+**🚀 Features
 Add printed and e-books
 
 Register students and teachers
@@ -12,7 +12,7 @@ Track availability of books
 
 Uses OOP concepts: Classes, Inheritance, Polymorphism
 
-###🏗️ Project Structure
+**🏗️ Project Structure
 bash
 Copy
 Edit
@@ -34,7 +34,7 @@ library-management/
 └── README.md
 
 
-###🧠 Concepts Covered
+**🧠 Concepts Covered
 Object-Oriented Programming
 
 Abstraction, Inheritance, Polymorphism
